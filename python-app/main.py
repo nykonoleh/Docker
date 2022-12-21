@@ -1,5 +1,5 @@
 import calendar
-print ('KUKU\n')
+print ('KUKU in supercalendar\n')
 
 year = int(input('Enter year '))
 month = int(input('Enter month '))
